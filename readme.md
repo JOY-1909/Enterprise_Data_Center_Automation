@@ -61,7 +61,7 @@ This project proposes a **unified DevSecOps system** that automates code managem
 ## 🏗️ System Architecture (Textual Representation)
 
 ```
-<img width="1536" height="1024" alt="sys_arch" src="https://github.com/user-attachments/assets/c2ed4a27-cfb1-4a83-a2b1-19a98aa46819" />
+<img width="1536" height="1024" alt="sys_arch" src="./assets/sys_arch.png" />
 
 ```
 
@@ -70,9 +70,9 @@ This project proposes a **unified DevSecOps system** that automates code managem
 ## 🔁 Pipeline Flowchart (Logical Flow)
 
 ```
-<img width="1536" height="1024" alt="CICD_Flow" src="https://github.com/user-attachments/assets/f8a07dbe-70fb-458f-9db4-ccb197d6e357" />
+<img width="1536" height="1024" alt="CICD_Flow" src="./assets/CICD_Flow.png" />
 
-<img width="1033" height="617" alt="image" src="https://github.com/user-attachments/assets/e8814bc6-f1e6-410d-b7a1-b0b76adcdf31" />
+<img width="1033" height="617" alt="image" src="./assets/Screenshot 2025-12-30 145001.png" />
 
 ```
 
